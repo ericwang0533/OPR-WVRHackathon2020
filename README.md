@@ -9,6 +9,7 @@
 
 ## What is OPR?
 OPR or **O**ffensive **P**ower **R**ating is a statistic that has gained popularity from its use in For Inspiration and Recognition of Science and Technology ([FIRST](https://www.firstinspires.org/))  
+\
 OPR aims to illustrate a single team's offensive ability. OPR is a better indicator than average match score because an average match score is dependent on the alliance. Also known as "[Calculated Contribution](https://www.youtube.com/watch?v=l8syuYnXfJg&t=409s)," OPR tells us how a single team has been playing that day. 
 
 ## How it Works?
