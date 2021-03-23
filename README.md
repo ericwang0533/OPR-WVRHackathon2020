@@ -4,7 +4,7 @@
 
 ## Files:
  - [DetailFrame.java](DetailFrame.java): Calculating Team Info, Including **OPR**
- - [3538_2020misou.xlsx](3538_2020misou.xlsx), [blueAllianceData.xlsx](blueAllianceData.xlsx), [oprmaster.xlsx](oprmaster.xlsx): Excel Spreadsheets w/ Match Data & OPR Data 
+ - [3538_2020misou.xlsx](3538_2020misou.xlsx), [blueAllianceData.xlsx](blueAllianceData.xlsx): Excel Spreadsheets w/ Match Data
 
 ## What is OPR?
 OPR or **O**ffensive **P**ower **R**ating is a statistic that has gained popularity from its use in For Inspiration and Recognition of Science and Technology ([FIRST](https://www.firstinspires.org/)).    
