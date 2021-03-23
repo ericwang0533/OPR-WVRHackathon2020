@@ -3,8 +3,7 @@
 - Full Project: [master branch](https://github.com/Ericspk33/OPR-WVRHackathon2020/tree/master) or https://github.com/Team5857/2020-Scouting-Hackathon
 
 ## Files:
- - [DetailFrame.java](DetailFrame.java): Calculating Team Info, Including OPR
- - [Ranking.java](Ranking.java): Team Rankings Based off OPR
+ - [DetailFrame.java](DetailFrame.java): Calculating Team Info, Including **OPR**
  - [3538_2020misou.xlsx](3538_2020misou.xlsx), [blueAllianceData.xlsx](blueAllianceData.xlsx), [oprmaster.xlsx](oprmaster.xlsx): Excel Spreadsheets w/ Match Data & OPR Data 
 
 ## What is OPR?
