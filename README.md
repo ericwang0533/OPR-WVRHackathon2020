@@ -1,6 +1,7 @@
 # OPR - WVRHackathon2020
 - My **O**ffensive **P**ower **R**ating (OPR) Algorithm for [Walnut Valley Robotics#5857](https://github.com/Team5857)'s 2020 Scouting Hackathon  
 - Full Project: [master branch](https://github.com/Ericspk33/OPR-WVRHackathon2020/tree/master) or https://github.com/Team5857/2020-Scouting-Hackathon
+    - [Presentation Slides](https://docs.google.com/presentation/d/1q1GaG14MhrysaMUjgydaAlFh_D6ivBWeX33e8IyGViw/edit?usp=sharing)
 
 ## Files:
  - [DetailFrame.java](DetailFrame.java): Calculating Team Info, Including **OPR**
